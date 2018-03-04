@@ -34,7 +34,7 @@ Week 7: [UX choreography](https://medium.com/@m.soneji98/ux-choreography-da6e84c
 
 - [Experience Map](https://drive.google.com/open?id=1_XL4IqRxb3_Pa00-9rjZJZrMpddSthbV)
 
-- [Wireframe](https://drive.google.com/open?id=1HaQN0hdoviX_NbT50Ce0UB-kxaOMpmXH)
+- [Wireframe](https://drive.google.com/open?id=1QBwGmEc76i2VhlowwlY_QncfaW7i-i0r)
 
 - [Old - Wireframe](https://drive.google.com/open?id=1Ax-GxF2x4j3uCvNocFr6xK7va6gPXEx2)
 
