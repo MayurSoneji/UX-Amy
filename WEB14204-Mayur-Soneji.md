@@ -23,16 +23,16 @@ Week 6: [Telling The Story Of Your Project / Research](https://medium.com/@m.son
 Week 7: [UX choreography](https://medium.com/@m.soneji98/ux-choreography-da6e84c559e4) 
 
 
-##Materials
+## Materials
 
 
 - [Competitor Analysis](https://docs.google.com/document/d/16z2I7wVwDuB2SCv0KfR5l9Q09AKyHxqlzeIi35_LZiE/edit?usp=sharing)
 
 - [Elevator Pitch](https://docs.google.com/document/d/1BE6kNt3eiLjAyIQwPdFBx-tMPPay1wcnPm-Bp3PVhFo/edit?usp=sharing)
 
-- [Concept One-Pager](https://drive.google.com/open?id=12jnkfUIiSSliz7Vvx_DnXZwNCoHGwK-7)
+- [Concept One-Pager](https://drive.google.com/open?id=1QI22IYwxEQ2qsztWno4WANPenvXDHCtd)
 
-- [Experience Map](hhttps://drive.google.com/open?id=1_XL4IqRxb3_Pa00-9rjZJZrMpddSthbV)
+- [Experience Map](https://drive.google.com/open?id=1_XL4IqRxb3_Pa00-9rjZJZrMpddSthbV)
 
 - [Wireframe](https://drive.google.com/open?id=1HaQN0hdoviX_NbT50Ce0UB-kxaOMpmXH)
 
