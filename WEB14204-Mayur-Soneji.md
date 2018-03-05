@@ -44,6 +44,8 @@ Week 7: [UX choreography](https://medium.com/@m.soneji98/ux-choreography-da6e84c
 
 - [Prototype(s)](https://drive.google.com/open?id=19mu0IXeoLZ5PwW9MF-MzsfgZ35Y3i4F2)
 
+- [Invision Prototype](https://invis.io/2UG1FOJH8TQ#/281471817_Main)
+
 - [Concept video](https://drive.google.com/open?id=18ho8meAHsNDhTueIaWX3tpcvQRi3ygch)
 
 - [User-testing report](https://docs.google.com/document/d/1jWZuSJEXjjGXChsbQd6TQ62c6SntynQdH4mpokKbRf0/edit?usp=sharing)
